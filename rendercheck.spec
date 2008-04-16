@@ -1,13 +1,13 @@
 Name: rendercheck
 Version: 1.3
-Release: %mkrel 1
+Release: %mkrel 2
 Summary: a program to test a Render extension implementation
 Group: Development/X11
 Source: http://xorg.freedesktop.org/releases/individual/app/%{name}-%{version}.tar.bz2
 License: MIT
 BuildRoot: %{_tmppath}/%{name}-root
 
-BuildRequires: libxrender1-devel
+BuildRequires: libxrender-devel
 
 %description
 rendercheck is a program to test a Render extension implementation against
