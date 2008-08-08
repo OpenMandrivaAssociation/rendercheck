@@ -1,6 +1,6 @@
 Name: rendercheck
 Version: 1.3
-Release: %mkrel 2
+Release: %mkrel 3
 Summary: a program to test a Render extension implementation
 Group: Development/X11
 Source: http://xorg.freedesktop.org/releases/individual/app/%{name}-%{version}.tar.bz2
