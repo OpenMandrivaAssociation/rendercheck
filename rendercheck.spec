@@ -1,7 +1,7 @@
 Summary:	Test a Render extension implementation
 Name:		rendercheck
 Version:	1.5
-Release:	2
+Release:	3
 License:	MIT
 Group:		Development/X11
 Source:		http://xorg.freedesktop.org/releases/individual/app/%{name}-%{version}.tar.bz2
