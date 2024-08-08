@@ -1,10 +1,10 @@
 Summary:	Test a Render extension implementation
 Name:		rendercheck
-Version:	1.5
-Release:	3
+Version:	1.6
+Release:	1
 License:	MIT
 Group:		Development/X11
-Source:		http://xorg.freedesktop.org/releases/individual/app/%{name}-%{version}.tar.bz2
+Source:		http://xorg.freedesktop.org/releases/individual/app/%{name}-%{version}.tar.xz
 BuildRequires:	pkgconfig(x11)
 BuildRequires:	pkgconfig(xorg-macros) >= 1.8
 BuildRequires:	pkgconfig(xrender)
