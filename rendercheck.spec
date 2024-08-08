@@ -1,3 +1,5 @@
+%define _disable_ld_no_undefined 1
+
 Summary:	Test a Render extension implementation
 Name:		rendercheck
 Version:	1.6
