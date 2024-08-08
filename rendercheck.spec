@@ -9,6 +9,7 @@ BuildRequires:  meson
 BuildRequires:	pkgconfig(x11)
 BuildRequires:	pkgconfig(xorg-macros) >= 1.8
 BuildRequires:	pkgconfig(xrender)
+BuildRequires:  pkgconfig(xext)
 
 %description
 rendercheck is a program to test a Render extension implementation against
